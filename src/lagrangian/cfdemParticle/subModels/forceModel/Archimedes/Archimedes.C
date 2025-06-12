@@ -56,6 +56,7 @@ addToRunTimeSelectionTable
 // Construct from components
 Archimedes::Archimedes
 (
+    // This is a comment
     const dictionary& dict,
     cfdemCloud& sm
 )
